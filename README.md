@@ -1,6 +1,6 @@
 ### zzzhxxx  there 👋
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=zzzhxxx)]()
-- 🍻 Senior High School Student at 🇨🇳 
+- 🍻 Senior High School Student at Weiyu High School in 🇨🇳 
 - ⚡ C++ / Html / Javascript / PHP.
 - 🖋 Youtuber/UP at [bilibli](https://space.bilibili.com/40127239)
 - ✍️ [Blogger](https://zzzhxxx.top)
