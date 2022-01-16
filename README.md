@@ -1,5 +1,6 @@
 ### zzzhxxx  there 👋
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=zzzhxxx)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzzhxxx&layout=compact)](https://github.com/zzzhxxx)
 ![](https://osu-stats-signature.vercel.app/card?user=Kasumi_Kira&blur=6&animation=true)
 - 🍻 Senior High School Student at Weiyu High School in 🇨🇳 
 - ⚡ C++ / Html / Javascript / PHP.
