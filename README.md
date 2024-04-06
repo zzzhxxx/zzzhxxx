@@ -1,7 +1,10 @@
 ### zzzhxxx  here 👋
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=zzzhxxx)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzzhxxx&layout=compact)](https://github.com/zzzhxxx)
-![](https://ghproxy.com/https://raw.githubusercontent.com/zzzhxxx/bangumi-action/main/bgm/card.svg)
+
+### Bangumi
+
+[![](https://ghproxy.com/https://raw.githubusercontent.com/zzzhxxx/bangumi-action/main/bgm/card.svg)](https://bgm.tv/user/zzzhxxx)
 
 - 🍻 Senior High School Student at Weiyu High School in 🇨🇳 
 - ⚡ C++ / Html / Javascript / PHP.
