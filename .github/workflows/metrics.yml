@@ -19,4 +19,12 @@ jobs:
           plugin_anilist_user: "zzzhxxx"
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, watching, characters, reading
-          plugin_anilist_limit: 1
+          plugin_anilist_limit: 5
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.steam.full.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: "76561198303313609"
