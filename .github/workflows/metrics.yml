@@ -27,4 +27,6 @@ jobs:
           base: ""
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
+          plugin_steam_games_limit: 5
+          plugin_steam_recent_games_limit: 3
           plugin_steam_user: "76561198303313609"
