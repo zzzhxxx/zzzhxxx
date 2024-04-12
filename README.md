@@ -12,7 +12,9 @@
 
 ## Hobbies
 
-|                                                                                                                                                                                                                   |                                                                                                            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| ![](https://ghproxy.com/https://raw.githubusercontent.com/zzzhxxx/bangumi-action/main/bgm/card.svg) ![](https://ghproxy.com/https://raw.githubusercontent.com/zzzhxxx/zzzhxxx/main/metrics.plugin.steam.full.svg) | ![](https://ghproxy.com/https://raw.githubusercontent.com/zzzhxxx/zzzhxxx/main/metrics.plugin.anilist.svg) |
+[<img align="left" width="390" src="https://ghproxy.com/https://raw.githubusercontent.com/zzzhxxx/bangumi-action/main/bgm/card.svg">](https://bgm.tv/user/zzzhxxx)
+[<img align="right" width="390" src="https://ghproxy.com/https://raw.githubusercontent.com/zzzhxxx/zzzhxxx/main/metrics.plugin.anilist.svg">](#)
+
+[<img align="left" width="390" src="https://ghproxy.com/https://raw.githubusercontent.com/zzzhxxx/zzzhxxx/main/metrics.plugin.steam.full.svg">](#)
+
 
