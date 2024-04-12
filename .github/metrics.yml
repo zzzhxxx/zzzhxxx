@@ -1,0 +1,22 @@
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Metrics
+on:
+  # Schedule updates (every day at 00:00h)
+  schedule: [{ cron: "0 0 * * *" }]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: { branches: ["master"] }
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.anilist.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_user: "zzzhxxx"
+          plugin_anilist_medias: anime, manga
+          plugin_anilist_sections: favorites, watching, characters, reading
+          plugin_anilist_limit: 1
