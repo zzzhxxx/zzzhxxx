@@ -353,7 +353,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        5 hours played
+                                        6 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -361,7 +361,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 10 May 2024
+                                        Last played on 11 May 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -370,32 +370,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            5 / 53 achievements unlocked
+                                            8 / 53 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABgIEBwMF/8QALhAAAQQBAwICCQUAAAAAAAAAAQIDBBEFAAYhEjETUQcIFCIjMmFxgUFSkrHB/8QAGAEAAgMAAAAAAAAAAAAAAAAABQYDBAf/xAAkEQABAgYBBAMAAAAAAAAAAAABAgMABBESITFhBRMicZHR8P/aAAwDAQACEQMRAD8AA7W2JEn7Yj5HLu5LHPy5Aiwh7KFNyXFAFCUkkH3uaV8tjkji6m7tkZXbMpiPNiOtuOthwB7pTxz5E82Dxpn6Ot7oe9G/s0xTa5e3nQpBepVxHDyBfksAfZSR+mmXrGxY4Z2/uoTVDHzWEQEoUgrAJt5tYoEkkdafyNDC0V3W7Axz+9w1y8/2X0JfPgVUPAxmufeowaHhHX1pS+ttq/IlVf1rtufbDWMhsvMSfHKr6wQE12qvPvr1VdLKk9bzSHFlQaQokKd6R1HpFdgObNdwO5rVTPvrexqkrN0pJH8hqghxxKwFilYd5yUlHJZa5VdxSATmu8j5EDcA46Fy0pNR1xnEyDRIDZHevorpr61ras/vLbud9ViFjc1PrcEBTbMeMlXxS62ohCq/Z4ZNnt3F3xrBMZOMKSh5KErKewVf+aQw17dm492Tm5ElMlqUktwY7A+KybUsB0mkG+PlNX2OjaTaYy+YQXsiJbfG58m8xnxjl5JMDpiJekKSllKQgo6FA1fzpJ5877k6QOyYgadiTmno8t4FtEdYKugi1daXB7jiB09wQefzohlMnFlTXXMfjmcfGXQDKXFOk1dFS1kkq55PA7cDUE5OQGlth9fhrFKRfBH21C9a4fJNaQS6cH5VCu25bdsbBH3zH//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQYHAQL/xAAqEAACAgEDBAEEAQUAAAAAAAABAgMEEQUSIQAGIjFBBxNRgRQyNFJicf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAhEQACAQQCAgMAAAAAAAAAAAABAgMABBEhEjEFEyNBgf/aAAwDAQACEQMRAD8AzLtbtzQ73ak+qarqlmjLHYNZQkIlRpNm5VIzuUsA2D68TnHGR7dONf7AyTqqgs0q/ZAyP9jz039PO40q1LNSfaqmFlMj48V98cZB9/P468S6Z/NlpkisEjUs7bFUyED8ruIyPkkY/A6hihWRzyzW/ceRubcfGRsn86o/tLRj3Fq1agtiCvJMdvLbipwTyMD8dUH1G+n0PbGm0bNbUDcMzOsuUCBcYxgZOfZ6Tpzw14tOuw040NXMimJPJt5GQzZyzH4J6F717ks6hRp0Za8qwuPvq8v9SkMBsx6zg8/rpksCouVG6Jb279qpO2QdaA7zjFZrVfy2E+Ljaf31W6RWQ6VUv6pbvypOrRLVgj/w8SC7HC/HoE89Q8cnrnqs0jXoV0mSjqdi2aAkMq1K2EZnI97yDgcc456NG4HfVR3Ce5QR3VJo+o1Wj1DNyxWv15USrUVC5xklWZ8bQF/Xx0hb+xJoGqya3bD3hGJYZJXLvJIxHiCOCcZzzxt6zeXUI2Qx1q8UERYk48nfnjc55OP1/wA64brkMGckEAEZ449dKmkZwVHVWW1vyZZZW2N4+q//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>You'd Better Hang On!</div>
-                                                <div class="unlocked">10 May 2024</div>
+                                                <div>Punch That Clock!</div>
+                                                <div class="unlocked">11 May 2024</div>
                                             </div>
-                                            <div class="description">Used the grappling hook.</div>
+                                            <div class="description">Worked a part-time job.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwQFCAMG/8QAKxAAAgECBQMDAwUAAAAAAAAAAQIDBBEABQYSIRQxQQcTUSJhkRUycYHh/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQUCAwQG/8QAJxEAAQMDAgYCAwAAAAAAAAAAAQIDEQAEITFBEhNRcYHwIoKhscH/2gAMAwEAAhEDEQA/ADbS2lsnrtKyZpm2YVdBN1HTRBIBIkkhXci9wRuG6x7XU3txfjWaSrUy2OvoIzU0jXu5IUrbgki5Pf7Yk+nOpY6OiqqadYwqxm8j9wvm3x5H4w06foaGkpYv0qKSqM6dTHA8+0l7D6e1huH547YWWtuu6fLcQADnXTM/reu/bW2whTilKIgKAAGkGRvuDFEOk/TnMNQJDI08FNHJJsB5c7R+5vHA7fc4rtb6LGQQROk8kzF2STfHstYi1vnGls4oKqmSOuhT2C1neMFSqLyNxA5A4AJt5+b4HPVvOUzDKemSphqfbmVw6Slz3tYC1gOfnGp60ZYaSsu/I7R7HeqmXnr7idaSOVH2BnM4j2aDqCoeJnRWssyGJx8g/wC2P9YfvTDU1PLpLJaarEb1aB0c22mNY7/WzDwAo47n7YzlHJ2sceryTOqeChqUrKysiVUb2oaSytIzeC/hb8nybWHe4HMdayyYPnz7/c0tsnmkucboJEHQxkZH5px1VqzMZdXl8tooXqMvyyKtLVFQsNopQC0Gw2VmNyw5vyRziq1pXaXzXSlZW7eizcwqywMh5ckEKrj6X4BPPK25OAfqWkmkmlkkllkN3klcuzfyTiQa2QhgzkggAi/HHbEHlqWngIBHbPcdKFgksFS0rKQo5A0jpX//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQcDBgL/xAArEAACAQMDAwMCBwAAAAAAAAABAgMEBREABiESEzEiQVEHFDRCQ2FxgZH/xAAYAQACAwAAAAAAAAAAAAAAAAAEBQIDBv/EACURAAEDAwMDBQAAAAAAAAAAAAECAxEABDESIUETUWEicaGx8f/aAAwDAQACEQMRAD8Amm19s2Wu2nLdbtcauglWoNNGEgEiPJ09SqeQQWHVg+Mqc44yNcaGKnkhSllMvWP1F6McZ58n2+NM/TrcX2cNXBM8Sw9grlwMjnJIPzjI/wA0NW3GopLrbJrXSiW4wzLIFjLP9wyMSWYewKkKVHBGfnSQ61OaYrdhwMNKdkkAAjAjwcnciBWlutEtVPClRiCKVQ4kHrAQnpDe3BPGlN7bOgsdDSTU1aappOruZQIF8Yx8+TnXc/Tzc953vHDSW3aNpijpWhpRIJAiQtEHkjDLgt0hmZgDwSpHnXF7uS60Mldab1GVqaV1Dq7HKsWU9QI4YH9+MNnUUuFKyhQg+9VW14b5Co2Kd45PfMbCpzSSYbpJ4cdJ/vSVDRCsqrfVVsUjwKoV8L3AGVvzICCQcc4IOgY5PHOmorirUfalkYKrEqiDDc+fV8Z0e4FAemlbHSeOl6dJHePIz+9qr30ov9Fs24bnu1mljipa6ZI46GpLdyMKxIb1HJGWOCfAByc68b+vabmrLzcrs9NBJDSLT0zIPxTCQlCuMg+knyeAOfbUb+5QE9mIRqfPJYn+SdbGtkIYM5IYAEZ448aCVaAr6hzRVqhthepBHPzngfVf/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Tactical Teamwork</div>
-                                                <div class="unlocked">10 May 2024</div>
+                                                <div>Easy Money</div>
+                                                <div class="unlocked">11 May 2024</div>
                                             </div>
-                                            <div class="description">Performed a Baton Pass.</div>
+                                            <div class="description">Won the lottery.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+3 others...</div>
+                                            <div class="description ellipsis">+6 others...</div>
                                         </div>
                                     </div>
                                 </div>
