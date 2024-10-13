@@ -238,7 +238,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        35 hours played
+                                        36 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -246,7 +246,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 27 Sept 2024
+                                        Last played on 12 Oct 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -337,71 +337,6 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAABAUDBgECBwgA/8QAKRAAAgEDBAICAgIDAQAAAAAAAQIDAAQRBQYSITFBByITFGFxFiOBkf/EABoBAAIDAQEAAAAAAAAAAAAAAAQFAgMGAAH/xAAhEQACAgICAgMBAAAAAAAAAAABAgADBBESIQUTIiMxMv/aAAwDAQACEQMRAD8Aol02IyKTT+DTC+f7gUvvPqtNMdCs2Wc9b/xBGf1XyvWiDka2ZONE+xtxPwI/ZuDUqeKiVfFExr1XcpKtWYyWHOaZW/18eaARgmB7o2A8BybxQ9vc0OJTodwFpPyTYbzQt8xPTequnxvoUGubmitZiO6G+QNJttA3fNZTECPAxUmtFYiJiLzqUZXwueY/8qUyAlc5NPo7a3khOLdgM9GpjpduUB6Wl58oqtqH1eLtI2vcQL0WKqSSOm9CpFkwAM9r2/Xqrz8fvtNb28G4w5VUAgjVsF3z3XWv8X2pLte51e+0ifTUjXKiVx919GifdsbgNmStR1qecTNyOY0Jf2fQFbSSvI4QEscfbHWBXe9uWWy9cu/09D0e5vOKhppUkGEBqkfNemaPo2qxWWjoUkVQ0yZ+wBrwvuFY+fzOhKptXVY9L1dbucuhX2rYqbdOvafqm45b0BpMRqPuc1UbiQmQ8WBGKg9M+AAeqMyMWthEleU9NoeruWOXUrOV1OGXHoHFZTV4xIFKHh/NJbS2/MOT4GPFEhYlbjIwApYfGVE73NLRlZVn2N0J074u1vZ2g2zX2r263GolyVD4IA9dGrjunfmztang/c/YMRwGVJcIB/Veep5LeP8A2RgEeCtDyXYK4iZPxnypHYokUBYnvx05En9M9BaRuj470bVU1HTP2ILiMdqk2Fb+x7rlvyNuKPdW7J9SgASIqFH8gVToo3YF2C4PQ6o6JYoIwcc384FQZQIbh4dafKLq+9Y9VrWaauqkTOUcgu4dZzgDiaInhDx8h3SlSfK03sZeUeG7pdbXo9TTePyEvT1sYtktvyt11ioTFxfjgUxb6yHHjNYkCs3Q7qo2HUtOGth3NYoyYsn1WIg0jFcf9qdORXAom3QIucd0FbaYfRjqw4z/2Q==" alt="" />
-                            <div class="about">
-                                <div class="name">NBA 2K23</div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                        </svg>
-                                        Simulation, Sports
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
-                                        </svg>
-                                        5 hours played
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
-                                        </svg>
-                                        Last played on 5 Oct 2024
-                                    </div>
-                                </div>
-                                <div class="achievements">
-                                    <div class="infos">
-                                        <div>
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
-                                            </svg>
-                                            8 / 50 achievements unlocked
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYFBP/EACwQAAEDAgUDAwMFAAAAAAAAAAECAwQFEQAGEhMhBzFhFCJRFUFSMjOBobH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EACURAAEDAwMDBQAAAAAAAAAAAAECAxEABCExUWEFEkFxocHR4f/aAAwDAQACEQMRAD8ALss06XXMw1OKp+aVM6niluSUEp3CmwuFXNyLAD74QIfTgOtTmUrrC6iGdUZhuqNrVrCgFakpTqAAPa3+YnekLy0Z4rxQy+84afIQlDFtzl21034uL3/jFtRKSMtZ6yTHpECoBz1oW9UXWhZ1DqUAtXQSPYCsG57k4ouH1MkQMTuOPEe+lPp9k1dpX3LhQBIEbTqZ9BAzUez08zFIaUthTq0W1AeuUF2vwdOjV/XOJCu0yfQ6zSWXpcjVIKXgUyVLGkOBNuwINweD8YXOqrrz0zP/AKwqK4FRhiNzbbS4Fni1r3AT3va2I7q27vZlye88dTj9IiPOq+5WtSVFR8kknBaug+soIj6zxTvOmGzYQ8FAzqI8wDjPP7UjRa0qjZndnIC1tBb8eQhB9y2XNSVgebG4wk5bmv5TpVPKK5AdoanFyozkffU86SUG2gANhwBGn3GydajzxgelxpiKjLW1Ek/vOXG0r8j4xo0SqVekbiY0R16G8bvw5EdS2XD82t7T5GKHGW3VBxVQM3TzCFNJ0O4mk96LMzk7mV+LXYn0+oLanT3aghxL0NDWqySoJ2yAFEA3FwBwOcGmZKv9WzTHkt6/SNqYixQv9QYbKUov5IF8dVfzPXKvTm6cqIqFSm1a0U+HHUhoqHZS+LuHyrt8X5xgxGZb1RiFUOUDvt3u0r8h4wUMNNlS04nTzTevX30pbXkDYRx8V//Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Clutch</div>
-                                                <div class="unlocked">14 Jan 2023</div>
-                                            </div>
-                                            <div class="description">Score 30 points in a MyCAREER NBA game</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QALRAAAQMCBQMCBQUAAAAAAAAAAQIDBAURAAYSEyEiMWFBUQcUJFKhJTNDYqP/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQD/8QAIREAAgIDAAICAwAAAAAAAAAAAQIDEQAEITFhBUFRgdH/2gAMAwEAAhEDEQA/AMry/BlVivVRhyVKSI4XIWRKKAEbhSe4PuMURys0voiT56nj2SZ+r8Bu+Dvh8UrzRX2nFlAchONghOo8yE9h64r/AJSUqQIz736Q8qTpcYSGw7stOKVpVbUpF0pBUeCQfbFs21DrrTWWvgFAVQ82D94ND4vY33tWVUA6SCST2wACPA70jJSRlWpMOrZenhtY7ocmuBQ/zwBWqbPotZpLTsx5XzOl9Cm5SlpKdwJ9h6g42Wm5Qfm0eiVGbLEeE8wxGSP5C5p4SNXF/HPAxm3xATtV3K7ToN0RNJuLEfVKsbYZJo5kFWG9kEeD6GTTa8mtMy2CouiAQeGvyRglBrLdFzYqpLZW+2y86lxpCrFSSr82IBt62xRVp2LEYjOLnVuTGeQExZ8ZtraWzoKS2Ou4NlEEEg97g3viDlxpiKjLW1Ek/vOXG0r7jz2wjRKpV6RuJixHHYjxu/DkR1LZd8lNuFf2HOElgimIdheaau9sagKRNQPrNTpeapOb3ICEU+WxFy+gvNvvvoRFjgWO8+q19XSOkdzwMZPVam9U8xMS33C5qebQ2SNPTrve3pckm3kYSr2Zq5V6e1T3IiodLaUFt0+HGU2zqHZS+LrV5V2wFEZlvVGIVQpQO+3e7KvuHjBSGOO2HDiS7M0wVH6B/b5+8//Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>No Contest</div>
-                                                <div class="unlocked">13 Jan 2023</div>
-                                            </div>
-                                            <div class="description">Take a 20 point lead into halftime in a MyCAREER NBA game</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+6 others...</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="media largeable-width-half">
                             <img src="data:image/jpg;base64,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" alt="" />
                             <div class="about">
                                 <div class="name">Persona 5 Royal</div>
@@ -418,7 +353,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        35 hours played
+                                        36 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -426,7 +361,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 27 Sept 2024
+                                        Last played on 12 Oct 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -491,7 +426,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 16 Jul 2024
+                                        Last played on 12 Oct 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -521,6 +456,71 @@
                                                 <div class="unlocked">24 Mar 2020</div>
                                             </div>
                                             <div class="description">Favorite 10 different wallpapers from the Workshop.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+6 others...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="media largeable-width-half">
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAABAUDBgECBwgA/8QAKRAAAgEDBAICAgIDAQAAAAAAAQIDAAQRBQYSITFBByITFGFxFiOBkf/EABoBAAIDAQEAAAAAAAAAAAAAAAQFAgMGAAH/xAAhEQACAgICAgMBAAAAAAAAAAABAgADBBESIQUTIiMxMv/aAAwDAQACEQMRAD8Aol02IyKTT+DTC+f7gUvvPqtNMdCs2Wc9b/xBGf1XyvWiDka2ZONE+xtxPwI/ZuDUqeKiVfFExr1XcpKtWYyWHOaZW/18eaARgmB7o2A8BybxQ9vc0OJTodwFpPyTYbzQt8xPTequnxvoUGubmitZiO6G+QNJttA3fNZTECPAxUmtFYiJiLzqUZXwueY/8qUyAlc5NPo7a3khOLdgM9GpjpduUB6Wl58oqtqH1eLtI2vcQL0WKqSSOm9CpFkwAM9r2/Xqrz8fvtNb28G4w5VUAgjVsF3z3XWv8X2pLte51e+0ifTUjXKiVx919GifdsbgNmStR1qecTNyOY0Jf2fQFbSSvI4QEscfbHWBXe9uWWy9cu/09D0e5vOKhppUkGEBqkfNemaPo2qxWWjoUkVQ0yZ+wBrwvuFY+fzOhKptXVY9L1dbucuhX2rYqbdOvafqm45b0BpMRqPuc1UbiQmQ8WBGKg9M+AAeqMyMWthEleU9NoeruWOXUrOV1OGXHoHFZTV4xIFKHh/NJbS2/MOT4GPFEhYlbjIwApYfGVE73NLRlZVn2N0J074u1vZ2g2zX2r263GolyVD4IA9dGrjunfmztang/c/YMRwGVJcIB/Veep5LeP8A2RgEeCtDyXYK4iZPxnypHYokUBYnvx05En9M9BaRuj470bVU1HTP2ILiMdqk2Fb+x7rlvyNuKPdW7J9SgASIqFH8gVToo3YF2C4PQ6o6JYoIwcc384FQZQIbh4dafKLq+9Y9VrWaauqkTOUcgu4dZzgDiaInhDx8h3SlSfK03sZeUeG7pdbXo9TTePyEvT1sYtktvyt11ioTFxfjgUxb6yHHjNYkCs3Q7qo2HUtOGth3NYoyYsn1WIg0jFcf9qdORXAom3QIucd0FbaYfRjqw4z/2Q==" alt="" />
+                            <div class="about">
+                                <div class="name">NBA 2K23</div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                        </svg>
+                                        Simulation, Sports
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
+                                        </svg>
+                                        5 hours played
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
+                                        </svg>
+                                        Last played on 5 Oct 2024
+                                    </div>
+                                </div>
+                                <div class="achievements">
+                                    <div class="infos">
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
+                                            </svg>
+                                            8 / 50 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYFBP/EACwQAAEDAgUDAwMFAAAAAAAAAAECAwQFEQAGEhMhBzFhFCJRFUFSMjOBobH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EACURAAEDAwMDBQAAAAAAAAAAAAECAxEABCExUWEFEkFxocHR4f/aAAwDAQACEQMRAD8ALss06XXMw1OKp+aVM6niluSUEp3CmwuFXNyLAD74QIfTgOtTmUrrC6iGdUZhuqNrVrCgFakpTqAAPa3+YnekLy0Z4rxQy+84afIQlDFtzl21034uL3/jFtRKSMtZ6yTHpECoBz1oW9UXWhZ1DqUAtXQSPYCsG57k4ouH1MkQMTuOPEe+lPp9k1dpX3LhQBIEbTqZ9BAzUez08zFIaUthTq0W1AeuUF2vwdOjV/XOJCu0yfQ6zSWXpcjVIKXgUyVLGkOBNuwINweD8YXOqrrz0zP/AKwqK4FRhiNzbbS4Fni1r3AT3va2I7q27vZlye88dTj9IiPOq+5WtSVFR8kknBaug+soIj6zxTvOmGzYQ8FAzqI8wDjPP7UjRa0qjZndnIC1tBb8eQhB9y2XNSVgebG4wk5bmv5TpVPKK5AdoanFyozkffU86SUG2gANhwBGn3GydajzxgelxpiKjLW1Ek/vOXG0r8j4xo0SqVekbiY0R16G8bvw5EdS2XD82t7T5GKHGW3VBxVQM3TzCFNJ0O4mk96LMzk7mV+LXYn0+oLanT3aghxL0NDWqySoJ2yAFEA3FwBwOcGmZKv9WzTHkt6/SNqYixQv9QYbKUov5IF8dVfzPXKvTm6cqIqFSm1a0U+HHUhoqHZS+LuHyrt8X5xgxGZb1RiFUOUDvt3u0r8h4wUMNNlS04nTzTevX30pbXkDYRx8V//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Clutch</div>
+                                                <div class="unlocked">14 Jan 2023</div>
+                                            </div>
+                                            <div class="description">Score 30 points in a MyCAREER NBA game</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QALRAAAQMCBQMCBQUAAAAAAAAAAQIDBAURAAYSEyEiMWFBUQcUJFKhJTNDYqP/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQD/8QAIREAAgIDAAICAwAAAAAAAAAAAQIDEQAEITFhBUFRgdH/2gAMAwEAAhEDEQA/AMry/BlVivVRhyVKSI4XIWRKKAEbhSe4PuMURys0voiT56nj2SZ+r8Bu+Dvh8UrzRX2nFlAchONghOo8yE9h64r/AJSUqQIz736Q8qTpcYSGw7stOKVpVbUpF0pBUeCQfbFs21DrrTWWvgFAVQ82D94ND4vY33tWVUA6SCST2wACPA70jJSRlWpMOrZenhtY7ocmuBQ/zwBWqbPotZpLTsx5XzOl9Cm5SlpKdwJ9h6g42Wm5Qfm0eiVGbLEeE8wxGSP5C5p4SNXF/HPAxm3xATtV3K7ToN0RNJuLEfVKsbYZJo5kFWG9kEeD6GTTa8mtMy2CouiAQeGvyRglBrLdFzYqpLZW+2y86lxpCrFSSr82IBt62xRVp2LEYjOLnVuTGeQExZ8ZtraWzoKS2Ou4NlEEEg97g3viDlxpiKjLW1Ek/vOXG0r7jz2wjRKpV6RuJixHHYjxu/DkR1LZd8lNuFf2HOElgimIdheaau9sagKRNQPrNTpeapOb3ICEU+WxFy+gvNvvvoRFjgWO8+q19XSOkdzwMZPVam9U8xMS33C5qebQ2SNPTrve3pckm3kYSr2Zq5V6e1T3IiodLaUFt0+HGU2zqHZS+LrV5V2wFEZlvVGIVQpQO+3e7KvuHjBSGOO2HDiS7M0wVH6B/b5+8//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>No Contest</div>
+                                                <div class="unlocked">13 Jan 2023</div>
+                                            </div>
+                                            <div class="description">Take a 20 point lead into halftime in a MyCAREER NBA game</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
