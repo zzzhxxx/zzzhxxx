@@ -362,6 +362,71 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABQcDBAYIAv/EADEQAAIBBAECBAQEBwEAAAAAAAECAwAEBRESBiETMUFRBxQiMlJhcYEIFSMkQmJykf/EABkBAAIDAQAAAAAAAAAAAAAAAAMEAAIFAf/EACARAAICAgICAwAAAAAAAAAAAAECAAMEERIhEzEFIjL/2gAMAwEAAhEDEQA/AGT0r1NaZG5b5G4SeZhohR6Uwol8GBA5Bdu4FJz4VQXuQynjZGyWBo+7iJAnb9qauXuPBUqGAL/TFvz3WD8ljri2aTuPV3tkt3ILvIq1xwTuI+4/WiMPFYlT0buaysTqbnanfHu36+tXYcogu7mVj/bJGNf9etZxHI7jllHEDUPq222PLyqUAFdetDILjVnE58nbY/SiO+G3PlquGLMJ5jIdd+x1UUeheSj3UVXtZSLZm/3Ne+RF2x91FV9S3E6lfEWVtjy/y6lOQ78u+6H9Q5GzsITcZGRY0t/6isx7GieMDGwJdgDs/d3NJf8AiauHtun7H5XxOcshVyD21qmaS9tmrJesL7WbbEZ/DXcrvZX0Mpl/wB7g0WkhS3xkkJKlJTsN7bri/BJkb68itbY3EjSEDUDFSfyFdidP42/tsRaWuRkEksUSuRrvrXkfzpvJwjWeQl1u700LTNxgs4QdmM8u3tV3qO8+Wx3FUYuyjWjVYQmTJRyEaTiBVDK3sEuXRZbhBGnYgmkVTchUFty1Lko4ktYtEFwNj9qv2T8shKPMcBQC7Hj3CyKoKx9wR7UXxT8wk/4zx/8AKo6ahHUcZN0/J4mHDHueR3ug+d6dtepMabO7CkxuWBYe9EOlZRJjdr9rMQKLWtoksz8W0V86PjNq0bi7HxRZdKfBexw/U9nk4pSRbyeJx32NN+SzjZmYju/01NFAIwoVt+9TFhvfbXpW3YeZiVlpczPZCD5W3lkbyRSSfYVw71Dmcpf9U3jrdzo3zDoEDkdge1d7X0AntniuVLrLtSV7aFJm9+CuKu+okvxcKYfE5PGvY12hFqOzGK2De5kfhda9R4lbS5uTNLjr9/CWKUlnB8ydn0p52EfFY4gPp3sj8NVsgsEUttbWqqvggKvbsgHrRPfhRhQNM4+73rEznD3aEP2BMV0VmFa6mhJ4Mq7RD6mjV9lLjG5uylQFluH4SIPQUm8dlZrPNrZTWs1lllAZbaU7ZgfKmbDkxlcWZo7d5r+1+p7ZT9dONjeOyEK1W/kxjNMLyycwk6Ya2D5GscbLqDHzE2shd3bas/dR+1Z/pjreOK6Fu6vauXINvMdtWty3WdrioDPJbymMDZYnsKcU7aD8NlXSjYM1iMzWqCRgZ+A3ry5etCcnJDZq7hhzkGtD0NLPM/FicR8rCyc8vtPapcDm/wCd3EkU0vG5nQCNSfJvWg2sSdCSvCdPs00+KQS3T8gWXe+W6I3tx8v4kkqExRrsUOR0w9tHZcw1zKfOj8Nst5hnDEM7DRrNTHL29yWOFn//2Q==" alt="" />
+                            <div class="about">
+                                <div class="name">Hamidashi Creative</div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                        </svg>
+                                        Adventure, Casual, RPG
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
+                                        </svg>
+                                        8 hours played
+                                    </div>
+                                </div>
+                                <div class="infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
+                                        </svg>
+                                        Last played on 7 Dec 2024
+                                    </div>
+                                </div>
+                                <div class="achievements">
+                                    <div class="infos">
+                                        <div>
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
+                                            </svg>
+                                            13 / 22 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQECBAYHA//EACsQAAEDAgYCAQIHAAAAAAAAAAECAwQFEQAGEiExQRNhUXGRBxQyYnKB8P/EABgBAAMBAQAAAAAAAAAAAAAAAAIEBQMG/8QAJxEAAQIFAwIHAAAAAAAAAAAAAQIDAAQRITESIkFRkWGBobHh8PH/2gAMAwEAAhEDEQA/ANByDRFeFqozUIUw8q7TaxcEI4Ufncmw9Xxozr+hsFFk24GkWxXafJQaLSiwQUJiNEJT2NAB/wB6x3TNTIHiUpCm3TpSlRsb+vn6Y5N91xxZvziLSk6qEjEI6vyhxUVIbeI38YA1/wATxf64ZF8yADKcY0OL8YXrsVH2OsCIeVq6M6z6rJqzblLejhEaMEkKYUCDsOORcnk36tiyU+kuyHvzTspLV7Es6NQvbm9/tijKOPS6g2d4N83HeFZhhtadSDpPp5iKdLqDFByrTHgoq8I0qAuLb772PAN/fHeIMihRMzVqh5gbqUuGqGvWiOlWhK1ckX5Sro+tsHluwmIaY0tKX23bIdjKQVXTe5Xa3XN/WD8BFIfp0hmKwBEbTsbXBAHJ+3e+NZiVDVXGa66nsePv4SJorUQobfmHVrMEalwyuUrxLUk6VL2Re3auP6+MZ1QvxOiUmlwYWZHnFTAwHC+0nUAkqOlKzf8AVYAn67Ym51ywioUdC1PSFwmj5m0pJXb9tu0q4t7GCGYMpxouTXqUhx8QpIUFtO2KkJWngHspO9udu8BKpL91WKemRDzjTKWQlJ3KPtx4Zj//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>实妹相伴的智宏君</div>
+                                                <div class="unlocked">1 Nov 2024</div>
+                                            </div>
+                                            <div class="description">和泉妃爱路线开启</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUDAgj/xAAsEAABBAEDAgUDBQEAAAAAAAABAgMEEQUABhIxQRMhIlFhFHGBBxUzQrHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIEA//EACARAAIBBAIDAQAAAAAAAAAAAAECAAMREjEiUQQhQcH/2gAMAwEAAhEDEQA/APQRBlrUtZKVKIbBHa+tfNa2QxEjtNBlDbXIhKSkVZ7A++pL036OI09RJMs2Pjp/zWLTz8nEsxnGlpd5p9Sh1F2D99WlbCS2Z2vOHsI2jcDuWxSxGlvANSG23ClLhu7UiqUrpSvI1q9BnvkiPJZUARbboHpV7g13/wB0Jxu6cUd5ftrWYYmZSlc47SSfU3dnlXG6+e+mkpyWlpa3UNRYYHirtXJQA6kAeQ9+usyBsallPLHBvkn5eGFMSY/JTaiSttaa5JNdRfceWpv6abXl4d/Ky8hnJeXYmOpcjfUkktIF976mxdACxpFuLGrnvNOoUWy0qwR0I6EH7gkaBOzdy4PGSH8SlyYpPMtQeKVFdGiqzVC7sir9rOldDVTi1j1FRcT71FWc23iI+dO4kRWE5Nzg0X69ZSBRA/A0Ldy07JY6Qmc+480VltvkeP8AYJFkdjabP51WRkcll9wpYl499kFpPhSXqS14ix/G2ATZA5FR+NG97ws1t7E+BKbiGNLWUtuMKJKVUKSbAo0Cb7+ejxqopU8XHI6jVKfOyHXXf7P/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>虚拟主播自曝中之人？！</div>
+                                                <div class="unlocked">31 Oct 2024</div>
+                                            </div>
+                                            <div class="description">锦自曝虚拟主播身份</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+11 others...</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="media largeable-width-half">
                             <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAABwABBAUGAgP/xAAwEAACAQQBAwIDCAIDAAAAAAABAgMABAURIQYSMUFRBxMiFBUWIzJCYXEkUoGR0f/EABsBAAICAwEAAAAAAAAAAAAAAAQFAwYAAQIH/8QAJREAAgEDBAEEAwAAAAAAAAAAAQIAAwQRBRITMUEVIVGxIjNC/9oADAMBAAIRAxEAPwCBXW+KQIHmm3zV9OxDhZ5DgnoRuT3GkCugvaSF5GvenZhosviij0FgbK46etrm8RSwkYsT7UPcXHEMmF2tq1c46gxgbtA524OxXLvt+W2zeePFF8Yaymy1iI7EpA0xDE65FVmdvsJNfvgbPHFbqZuxZePNDLf5IXEObSP7Z4MSVA2dsW42K7KkMuztaN2NwuIjvjhjZdzLCrtIdeSKDeYhjt8ndQQN+UsjLv25qW0u+VmIg15YVLZQzH2Mk9O3FjBkFOUgZ7VuODrVFf8AA2EyOP8AteORi7LtPq2KCZICfyf2mtl0D1lPgr1be7cvZt5P+tRX1tUYb6R6hGl3FNW464/Gau96GxmVx0seOje3yEI8OdjfvqsDLms1hW+wTSJCIzrtK+f5o6XFumRijv8AGSBZtdwKnhv7rM9VYO16ssWMUQhytsN9p8k/+UstrzDbK3X1Hl7p6uvJQOD9yp+GWZvcvf3U2SdPlWqBwQuhVRlMxBmcwv4dxMy5GCYkuSD3f1Vl0jbS4HpnKQXkfyb8qQEbyRvg1V/DdZcb1HPcZSJoxIPok8AVLtAZqi+OoPTZ1p06RPn3mu6hD5Hpt8jbFre/tk1IAdEkcaoJuzO5aTZkZj3CjDnp48R0zkre0c3dxclmDKeF2d0HgCAwY/meWPtReljsHzF+sEEr8x1XuNJl15pLvfFctz5poWwpESAktjMKHw6PUlha7iPdYtyiuNkn+DWkgy65x5S2IvIihKtKjhe4jzUTp7Mk4OPI38TQWdog+WPHcw4NS8fK33ZixzGLy7duOCVPIqrV/wBhJEvNsDxbM9SvV7SfMtYvhsi86AF3aXfavoTXGefG4maKB8PfuJj2o3zP1H2Fek2QuLzrC+sLKNgJYViaUfs16k1MvJIr2/Wfme3xihkYeHkHBFaIIIzOckIVHmVPUF1i8NY28l7ir1VnOhuTxQ1zU+Ourz5uKglh35DtsVuvjJdtKcdDoqBqTR9Nihsv6jx/1TjTqW5d0QatWYVSnxFvUjj9uvNS8MltcZi2jvT22/dyd1FOjwvimU74I0F9aY1FyMRSrDdvxCb13PjMni0hs8zbRQW6j/HXYLGryHqDCGyxszZO3WOzUERepOtUFCFX9I2T7+tOB9Hae0RjnRFLm04EAZjhNW2kvj3MLWOzGIfE3sf3pb2t/dswV28gE8VQ4XqSXB5mDF/brWXF9/fNOU3vfnmsIwRm7XAPH0t7U8IGio1v17ud1np+cyJ9UfapA6mu+JOdTM5yOG2kjayjUESKPP8AzWP8szefQa9a6bQiESxtoHbNSDDXHB8LujbejwjAgNxXa4c1CO5//9k=" alt="" />
                             <div class="about">
                                 <div class="name">Microsoft Flight Simulator 2024</div>
@@ -421,71 +486,6 @@
                                     <div class="achievement">
                                         <div>
                                             <div class="description ellipsis">+4 others...</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABQcDBAYIAv/EADEQAAIBBAECBAQEBwEAAAAAAAECAwAEBRESBiETMUFRBxQiMlJhcYEIFSMkQmJykf/EABkBAAIDAQAAAAAAAAAAAAAAAAMEAAIFAf/EACARAAICAgICAwAAAAAAAAAAAAECAAMEERIhEzEFIjL/2gAMAwEAAhEDEQA/AGT0r1NaZG5b5G4SeZhohR6Uwol8GBA5Bdu4FJz4VQXuQynjZGyWBo+7iJAnb9qauXuPBUqGAL/TFvz3WD8ljri2aTuPV3tkt3ILvIq1xwTuI+4/WiMPFYlT0buaysTqbnanfHu36+tXYcogu7mVj/bJGNf9etZxHI7jllHEDUPq222PLyqUAFdetDILjVnE58nbY/SiO+G3PlquGLMJ5jIdd+x1UUeheSj3UVXtZSLZm/3Ne+RF2x91FV9S3E6lfEWVtjy/y6lOQ78u+6H9Q5GzsITcZGRY0t/6isx7GieMDGwJdgDs/d3NJf8AiauHtun7H5XxOcshVyD21qmaS9tmrJesL7WbbEZ/DXcrvZX0Mpl/wB7g0WkhS3xkkJKlJTsN7bri/BJkb68itbY3EjSEDUDFSfyFdidP42/tsRaWuRkEksUSuRrvrXkfzpvJwjWeQl1u700LTNxgs4QdmM8u3tV3qO8+Wx3FUYuyjWjVYQmTJRyEaTiBVDK3sEuXRZbhBGnYgmkVTchUFty1Lko4ktYtEFwNj9qv2T8shKPMcBQC7Hj3CyKoKx9wR7UXxT8wk/4zx/8AKo6ahHUcZN0/J4mHDHueR3ug+d6dtepMabO7CkxuWBYe9EOlZRJjdr9rMQKLWtoksz8W0V86PjNq0bi7HxRZdKfBexw/U9nk4pSRbyeJx32NN+SzjZmYju/01NFAIwoVt+9TFhvfbXpW3YeZiVlpczPZCD5W3lkbyRSSfYVw71Dmcpf9U3jrdzo3zDoEDkdge1d7X0AntniuVLrLtSV7aFJm9+CuKu+okvxcKYfE5PGvY12hFqOzGK2De5kfhda9R4lbS5uTNLjr9/CWKUlnB8ydn0p52EfFY4gPp3sj8NVsgsEUttbWqqvggKvbsgHrRPfhRhQNM4+73rEznD3aEP2BMV0VmFa6mhJ4Mq7RD6mjV9lLjG5uylQFluH4SIPQUm8dlZrPNrZTWs1lllAZbaU7ZgfKmbDkxlcWZo7d5r+1+p7ZT9dONjeOyEK1W/kxjNMLyycwk6Ya2D5GscbLqDHzE2shd3bas/dR+1Z/pjreOK6Fu6vauXINvMdtWty3WdrioDPJbymMDZYnsKcU7aD8NlXSjYM1iMzWqCRgZ+A3ry5etCcnJDZq7hhzkGtD0NLPM/FicR8rCyc8vtPapcDm/wCd3EkU0vG5nQCNSfJvWg2sSdCSvCdPs00+KQS3T8gWXe+W6I3tx8v4kkqExRrsUOR0w9tHZcw1zKfOj8Nst5hnDEM7DRrNTHL29yWOFn//2Q==" alt="" />
-                            <div class="about">
-                                <div class="name">Hamidashi Creative</div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                        </svg>
-                                        Adventure, Casual, RPG
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
-                                        </svg>
-                                        8 hours played
-                                    </div>
-                                </div>
-                                <div class="infos">
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
-                                        </svg>
-                                        Last played on 1 Dec 2024
-                                    </div>
-                                </div>
-                                <div class="achievements">
-                                    <div class="infos">
-                                        <div>
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
-                                            </svg>
-                                            13 / 22 achievements unlocked
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQECBAYHA//EACsQAAEDAgYCAQIHAAAAAAAAAAECAwQFEQAGEiExQRNhUXGRBxQyYnKB8P/EABgBAAMBAQAAAAAAAAAAAAAAAAIEBQMG/8QAJxEAAQIFAwIHAAAAAAAAAAAAAQIDAAQRITESIkFRkWGBobHh8PH/2gAMAwEAAhEDEQA/ANByDRFeFqozUIUw8q7TaxcEI4Ufncmw9Xxozr+hsFFk24GkWxXafJQaLSiwQUJiNEJT2NAB/wB6x3TNTIHiUpCm3TpSlRsb+vn6Y5N91xxZvziLSk6qEjEI6vyhxUVIbeI38YA1/wATxf64ZF8yADKcY0OL8YXrsVH2OsCIeVq6M6z6rJqzblLejhEaMEkKYUCDsOORcnk36tiyU+kuyHvzTspLV7Es6NQvbm9/tijKOPS6g2d4N83HeFZhhtadSDpPp5iKdLqDFByrTHgoq8I0qAuLb772PAN/fHeIMihRMzVqh5gbqUuGqGvWiOlWhK1ckX5Sro+tsHluwmIaY0tKX23bIdjKQVXTe5Xa3XN/WD8BFIfp0hmKwBEbTsbXBAHJ+3e+NZiVDVXGa66nsePv4SJorUQobfmHVrMEalwyuUrxLUk6VL2Re3auP6+MZ1QvxOiUmlwYWZHnFTAwHC+0nUAkqOlKzf8AVYAn67Ym51ywioUdC1PSFwmj5m0pJXb9tu0q4t7GCGYMpxouTXqUhx8QpIUFtO2KkJWngHspO9udu8BKpL91WKemRDzjTKWQlJ3KPtx4Zj//2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>实妹相伴的智宏君</div>
-                                                <div class="unlocked">1 Nov 2024</div>
-                                            </div>
-                                            <div class="description">和泉妃爱路线开启</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUDAgj/xAAsEAABBAEDAgUDBQEAAAAAAAABAgMEEQUABhIxQRMhIlFhFHGBBxUzQrHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIEA//EACARAAIBBAIDAQAAAAAAAAAAAAECAAMREjEiUQQhQcH/2gAMAwEAAhEDEQA/APQRBlrUtZKVKIbBHa+tfNa2QxEjtNBlDbXIhKSkVZ7A++pL036OI09RJMs2Pjp/zWLTz8nEsxnGlpd5p9Sh1F2D99WlbCS2Z2vOHsI2jcDuWxSxGlvANSG23ClLhu7UiqUrpSvI1q9BnvkiPJZUARbboHpV7g13/wB0Jxu6cUd5ftrWYYmZSlc47SSfU3dnlXG6+e+mkpyWlpa3UNRYYHirtXJQA6kAeQ9+usyBsallPLHBvkn5eGFMSY/JTaiSttaa5JNdRfceWpv6abXl4d/Ky8hnJeXYmOpcjfUkktIF976mxdACxpFuLGrnvNOoUWy0qwR0I6EH7gkaBOzdy4PGSH8SlyYpPMtQeKVFdGiqzVC7sir9rOldDVTi1j1FRcT71FWc23iI+dO4kRWE5Nzg0X69ZSBRA/A0Ldy07JY6Qmc+480VltvkeP8AYJFkdjabP51WRkcll9wpYl499kFpPhSXqS14ix/G2ATZA5FR+NG97ws1t7E+BKbiGNLWUtuMKJKVUKSbAo0Cb7+ejxqopU8XHI6jVKfOyHXXf7P/2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>虚拟主播自曝中之人？！</div>
-                                                <div class="unlocked">31 Oct 2024</div>
-                                            </div>
-                                            <div class="description">锦自曝虚拟主播身份</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+11 others...</div>
                                         </div>
                                     </div>
                                 </div>
