@@ -1,6 +1,6 @@
 ### zzzhxxx  here 👋
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=zzzhxxx)]()
+[![我的 GitHub 数据]([https://github-readme-stats.vercel.app/api?username=zzzhxxx](https://github-stats-extended.vercel.app/api?username=zzzhxxx&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=swift))]()
 
 ## About me
 
